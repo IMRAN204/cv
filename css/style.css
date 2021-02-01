@@ -1,0 +1,230 @@
+body{
+	background-color: silver;
+}
+
+header{
+	background-color: grey;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+header{}
+.b1{
+	background-color: aqua;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin-left: 0;
+	margin-top: 10px;
+	line-height: 10px;
+	width: 60%;
+	border-radius: 10px;
+	
+	
+}
+
+header{}
+.b2{
+	background-color: white;
+	width: 20%;
+	border-radius:10px;
+	margin-top: -151px;
+	padding: 50px;
+	margin-left: auto;
+	
+	
+}
+
+.co{
+	width: 1240px;
+	background-color: teal;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-color: white;
+	border-radius: 10px;
+}
+
+.co h1{
+	color: white;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.cocontext{
+	background-color: aqua;
+	width: 1220px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 18px;
+
+}
+
+.cocontext p{
+	margin-left: 10px;
+}
+
+.education{
+	width: 1240px;
+	background-color: teal;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-color: white;
+	border-radius: 10px;
+}
+
+.education h1{
+	color: white;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.educocontext{
+	background-color: aqua;
+	width: 1220px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 18px;
+
+}
+
+.educocontext p{
+	margin-left: 10px;
+}
+
+.techno{
+	width: 1240px;
+	background-color: teal;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-color: white;
+	border-radius: 10px;
+}
+
+.techno h1{
+	color: white;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.techpro{
+	background-color: aqua;
+	width: 1220px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 18px;
+
+}
+
+.techpro p{
+	margin-left: 10px;
+}
+
+.ap{
+	width: 1240px;
+	background-color: teal;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-color: white;
+	border-radius: 10px;
+}
+
+.ap h1{
+	color: white;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.apcontext{
+	background-color: aqua;
+	width: 1220px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 18px;
+
+}
+
+.apcontext p{
+	margin-left: 10px;
+}
+
+.strngth{
+	width: 1240px;
+	background-color: teal;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	font-color: white;
+	border-radius: 10px;
+}
+
+.strngth h1{
+	color: white;
+	padding-left: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.strngthcontext{
+	background-color: aqua;
+	width: 1220px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 18px;
+
+}
+
+.strngthcontext p{
+	margin-left: 10px;
+}
+
+footer {
+	background-color: grey;
+	margin-top: 5px;
+	padding: 10px;
+	padding-left: 10px
+	padding-top: 5px;
+	border-radius: 10px;
+	font-size: 10px;
+	text-align: center;
+
+}
+
+footer p{
+	color:white;
+}
